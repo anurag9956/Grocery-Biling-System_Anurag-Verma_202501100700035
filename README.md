@@ -11,19 +11,19 @@ A grocery store wants to calculate the total cost of items purchased by a custom
 - Display the final payable amount.
 
 ## Approach:
-Take input from the user and store in 3 variables (price1,price2,price3)
-calculate Total as sum of 3 prices
-if Total is greater than $50 then apply 10% discount
-print the finaltotal
+- Take input from the user and store in 3 variables (price1,price2,price3)
+- calculate Total as sum of 3 prices
+- if Total is greater than $50 then apply 10% discount
+- print the finaltotal
 
 ## Sample Output:
 
-Enter Price for item 1: 12
-Enter Price for item 2: 18
-Enter Price for item 3: 25
-Original Total : $55.0
-Discount Applied : Yes
-Final Amount : $49.5
+Enter Price for item 1: 12    
+Enter Price for item 2: 18   
+Enter Price for item 3: 25   
+Original Total : $55.0   
+Discount Applied : Yes   
+Final Amount : $49.5   
 
 --------------------------
 
