@@ -27,9 +27,9 @@ Final Amount : $49.5
 
 --------------------------
 
-Enter Price for item 1: 15
-Enter Price for item 2: 20
-Enter Price for item 3: 10
-Original Total : $45.0
-Discount Applied : No
-Final Amount : $45.0
+Enter Price for item 1: 15  
+Enter Price for item 2: 20  
+Enter Price for item 3: 10  
+Original Total : $45.0  
+Discount Applied : No  
+Final Amount : $45.0   
